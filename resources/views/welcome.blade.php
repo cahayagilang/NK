@@ -31,25 +31,38 @@
       background: none !important;
       padding: 0 !important;
       }
+      .footer_store{
+      max-height: 50px;
+      min-height: 50px;
+      max-width: 170px;
+      min-width: 170px;  
+      }
+      .footer_social{
+      max-height: 40px;
+      min-height: 40px;
+      max-width: 40px;
+      min-width: 40px;  
+      }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css'  href='assets/wp-includes/css/dist/block-library/style.min7752.css?ver=5.2.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='thinkup-bootstrap-css'  href='assets/wp-content/themes/ryan/lib/extentions/bootstrap/css/bootstrap.min95b8.css?ver=2.3.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='thinkup-shortcodes-css'  href='assets/wp-content/themes/ryan/styles/style-shortcodes5b3c.css?ver=1.4.10' type='text/css' media='all' />
-    <link rel='stylesheet' id='thinkup-style-css'  href='assets/wp-content/themes/ryan/style7752.css?ver=5.2.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='ryan-thinkup-style-boxed-css'  href='assets/wp-content/themes/ryan-boxed/style20b9.css?ver=1.0.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css'  href='assets/css/style.min7752.css?ver=5.2.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='thinkup-bootstrap-css'  href='assets/css/bootstrap.min95b8.css?ver=2.3.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='thinkup-shortcodes-css'  href='assets/css/style-shortcodes5b3c.css?ver=1.4.10' type='text/css' media='all' />
+    <link rel='stylesheet' id='thinkup-style-css'  href='assets/css/style7752.css?ver=5.2.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='ryan-thinkup-style-boxed-css'  href='assets/css/style20b9.css?ver=1.0.2' type='text/css' media='all' />
     <link rel='stylesheet' id='thinkup-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C600%2C700%7CRoboto+Condensed%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext' type='text/css' media='all' />
-    <link rel='stylesheet' id='prettyPhoto-css'  href='assets/wp-content/themes/ryan/lib/extentions/prettyPhoto/css/prettyPhoto005e.css?ver=3.1.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='dashicons-css'  href='assets/wp-includes/css/dashicons.min7752.css?ver=5.2.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='prettyPhoto-css'  href='assets/css/prettyPhoto005e.css?ver=3.1.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css'  href='assets/css/dashicons.min7752.css?ver=5.2.1' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css'  href='assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-css'  href='assets/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb2f9.css?ver=4.3.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-animations-css'  href='assets/wp-content/plugins/elementor/assets/lib/animations/animations.min60a8.css?ver=2.5.16' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-frontend-css'  href='assets/wp-content/plugins/elementor/assets/css/frontend.min60a8.css?ver=2.5.16' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-global-css'  href='assets/wp-content/uploads/elementor/css/global5676.css?ver=1559202679' type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-post-10-css'  href='assets/wp-content/uploads/elementor/css/post-10a2b4.css?ver=1560157625' type='text/css' media='all' />
-    <link rel='stylesheet' id='thinkup-responsive-css'  href='assets/wp-content/themes/ryan/styles/style-responsive5b3c.css?ver=1.4.10' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css'  href='assets/css/elementor-icons.minb2f9.css?ver=4.3.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-animations-css'  href='assets/css/animations.min60a8.css?ver=2.5.16' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'  href='assets/css/frontend.min60a8.css?ver=2.5.16' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-global-css'  href='assets/css/global5676.css?ver=1559202679' type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-10-css'  href='assets/css/post-10a2b4.css?ver=1560157625' type='text/css' media='all' />
+    <link rel='stylesheet' id='thinkup-responsive-css'  href='assets/css/style-responsive5b3c.css?ver=1.4.10' type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.2.1' type='text/css' media='all' />
-    <link rel="stylesheet" type="text/css" href="assets/wp-content/plugins/smart-slider-3/library/media/smartslider.min5052.css?1559201649" media="all" />
-    <style type="text/css">.n2-ss-spinner-simple-white-container {
+    <link rel="stylesheet" type="text/css" href="assets/css/smartslider.min5052.css?1559201649" media="all" />
+    <style type="text/css">
+    .n2-ss-spinner-simple-white-container {
       position: absolute;
       top: 50%;
       left: 50%;
@@ -66,6 +79,14 @@
       width:100%;
       height: 100%;
       }
+      .fa-nk {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 50px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    }
       .n2-ss-spinner-simple-white:before {
       position: absolute;
       top: 50%;
@@ -128,7 +149,7 @@
           <div id="header">
             <div id="header-core">
               <div id="logo">
-                <a href="index.html" class="custom-logo-link" rel="home"><img width="371" height="52" src="assets/wp-content/uploads/2019/05/logo2-1.png" class="custom-logo" alt="Halodokter" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/05/logo2-1.png 371w, https://mantagroup.us/assets/wp-content/uploads/2019/05/logo2-1-300x42.png 300w" sizes="(max-width: 371px) 100vw, 371px" /></a>			
+                <a href="index.html" class="custom-logo-link" rel="home"><img width="371" height="52" src="assets//upload/logo2-1.png" class="custom-logo" alt="Halodokter" srcset="assets//upload/logo2-1.png 371w, assets//upload/logo2-1.png 300w" sizes="(max-width: 371px) 100vw, 371px" /></a>			
               </div>
               <div id="header-links" class="main-navigation">
                 <div id="header-links-inner" class="header-links">
@@ -195,7 +216,7 @@
                                                     <div class="n2-ss-slide-backgrounds"></div>
                                                     <div data-first="1" data-slide-duration="0" data-id="4" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-4">
                                                       <div class="n2-ss-slide-background n2-ow" data-mode="blurfit">
-                                                        <div data-hash="10fcc3ab6df592bdfc1aa627417cebbb" data-desktop="//mantagroup.us/assets/wp-content/uploads/2019/05/freestocks-org-126848-unsplash1.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/wp-content/uploads/2019/05/freestocks-org-126848-unsplash1.jpg" alt="" /></div>
+                                                        <div data-hash="10fcc3ab6df592bdfc1aa627417cebbb" data-desktop="/assets/upload/freestocks-org-126848-unsplash1.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/upload/freestocks-org-126848-unsplash1.jpg" alt="" /></div>
                                                       </div>
                                                       <div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style="">
                                                         <div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered">
@@ -209,7 +230,7 @@
                                                     </div>
                                                     <div data-slide-duration="0" data-id="5" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-5">
                                                       <div class="n2-ss-slide-background n2-ow" data-mode="blurfit">
-                                                        <div data-hash="b656ead95b43b38402ccc6777b4c5940" data-desktop="//mantagroup.us/assets/wp-content/uploads/2019/05/piron-guillaume-367208-unsplash1.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/wp-content/uploads/2019/05/piron-guillaume-367208-unsplash1.jpg" alt="" /></div>
+                                                        <div data-hash="b656ead95b43b38402ccc6777b4c5940" data-desktop="/assets/upload/piron-guillaume-367208-unsplash1.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/upload/piron-guillaume-367208-unsplash1.jpg" alt="" /></div>
                                                       </div>
                                                       <div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style="">
                                                         <div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered">
@@ -223,7 +244,7 @@
                                                     </div>
                                                     <div data-slide-duration="0" data-id="6" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-6">
                                                       <div class="n2-ss-slide-background n2-ow" data-mode="blurfit">
-                                                        <div data-hash="86452b58730e57b70245341a588f13ca" data-desktop="//mantagroup.us/assets/wp-content/uploads/2019/05/sandwich.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/wp-content/uploads/2019/05/sandwich.jpg" alt="" /></div>
+                                                        <div data-hash="86452b58730e57b70245341a588f13ca" data-desktop="//assets/upload/sandwich.jpg" class="n2-ss-slide-background-image" data-blur="0"><img src="assets/upload/sandwich.jpg" alt="" /></div>
                                                       </div>
                                                       <div class="n2-ss-layers-container n2-ow" data-csstextalign="center" style="">
                                                         <div class="n2-ss-layer n2-ow" style="overflow:visible;" data-csstextalign="inherit" data-has-maxwidth="0" data-desktopportraitmaxwidth="0" data-cssselfalign="inherit" data-desktopportraitselfalign="inherit" data-pm="content" data-desktopportraitpadding="10|*|10|*|10|*|10|*|px+" data-desktopportraitinneralign="inherit" data-sstype="content" data-hasbackground="0" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="1" data-desktopportraitfontsize="100" data-plugin="rendered">
@@ -326,7 +347,7 @@
                                               <div class="elementor-element elementor-element-6d20db9e elementor-widget elementor-widget-image" data-id="6d20db9e" data-element_type="widget" data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
                                                   <div class="elementor-image">
-                                                    <img width="500" height="250" src="assets/wp-content/uploads/2019/05/lab.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/05/lab.png 500w, https://mantagroup.us/assets/wp-content/uploads/2019/05/lab-300x150.png 300w" sizes="(max-width: 500px) 100vw, 500px" />											
+                                                  <img src="assets/wp-content/uploads/elementor/thumbs/hospital-o8mcoeauos6urncafd4tw728fpw60cxfnr8d5ijsuc.png" title="hospital" alt="hospital" />
                                                   </div>
                                                 </div>
                                               </div>
@@ -506,7 +527,7 @@
                                 <div class="elementor-widget-wrap">
                                   <div class="elementor-element elementor-element-99a69d6 elementor-widget elementor-widget-heading" data-id="99a69d6" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h2 class="elementor-heading-title elementor-size-default">FORUM</h2>
+                                      <h2 class="elementor-heading-title elementor-size-default">FORUM DISKUSI</h2>
                                     </div>
                                   </div>
                                 </div>
@@ -563,7 +584,7 @@
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                           <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/wp-content/uploads/2019/05/ava2.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/05/ava2.png 400w, https://mantagroup.us/assets/wp-content/uploads/2019/05/ava2-150x150.png 150w, https://mantagroup.us/assets/wp-content/uploads/2019/05/ava2-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
+                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/upload/ava2.png" class="attachment-full size-full" alt="" srcset="assets/upload/ava2.png 400w, assets/upload/ava2.png 150w, assets/upload/ava2.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
                                             </div>
                                             <div class="elementor-testimonial-details">
                                               <div class="elementor-testimonial-name"><a href="https://halodokter.com/">Theo Gratia</a></div>
@@ -628,7 +649,7 @@
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                           <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/wp-content/uploads/2019/05/ava4.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/05/ava4.png 400w, https://mantagroup.us/assets/wp-content/uploads/2019/05/ava4-150x150.png 150w, https://mantagroup.us/assets/wp-content/uploads/2019/05/ava4-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
+                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/upload/ava4.png" class="attachment-full size-full" alt="" srcset="assets/upload/ava4.png 400w, assets/upload/ava4.png 150w, assets/upload/ava4.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
                                             </div>
                                             <div class="elementor-testimonial-details">
                                               <div class="elementor-testimonial-name"><a href="https://halodokter.com/">Andre Kurniawan</a></div>
@@ -693,7 +714,7 @@
                                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                                           <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/wp-content/uploads/2019/05/y9.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/05/y9.png 400w, https://mantagroup.us/assets/wp-content/uploads/2019/05/y9-150x150.png 150w, https://mantagroup.us/assets/wp-content/uploads/2019/05/y9-300x300.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
+                                              <a href="https://halodokter.com/"><img width="400" height="400" src="assets/upload/y9.png" class="attachment-full size-full" alt="" srcset="assets/upload/y9.png 400w, assets/upload/y9.png 150w, assets/upload/y9.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>						
                                             </div>
                                             <div class="elementor-testimonial-details">
                                               <div class="elementor-testimonial-name"><a href="https://halodokter.com/">Monica Sagala</a></div>
@@ -736,7 +757,7 @@
                                   <div class="elementor-element elementor-element-307ec52 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="307ec52" data-element_type="widget" data-widget_type="image-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image-box-wrapper">
-                                        <figure class="elementor-image-box-img"><a href="https://vedika.bpjs-kesehatan.go.id/vedika"><img width="833" height="551" src="assets/wp-content/uploads/2019/06/bpjs.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/06/bpjs.png 833w, https://mantagroup.us/assets/wp-content/uploads/2019/06/bpjs-300x198.png 300w, https://mantagroup.us/assets/wp-content/uploads/2019/06/bpjs-768x508.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
+                                        <figure class="elementor-image-box-img"><a href="https://vedika.bpjs-kesehatan.go.id/vedika"><img width="833" height="551" src="assets/upload/bpjs.png" class="attachment-full size-full" alt="" srcset="assets/upload/bpjs.png 833w, assets/upload/bpjs.png 300w, assets/upload/bpjs.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
                                         <div class="elementor-image-box-content">
                                           <h3 class="elementor-image-box-title"><a href="https://vedika.bpjs-kesehatan.go.id/vedika">HALOBPJS</a></h3>
                                         </div>
@@ -752,7 +773,7 @@
                                   <div class="elementor-element elementor-element-2731526 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2731526" data-element_type="widget" data-widget_type="image-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image-box-wrapper">
-                                        <figure class="elementor-image-box-img"><a href="http://medisis.co.id/medisis/default/user/login?_next=/medisis/default/index"><img width="833" height="551" src="assets/wp-content/uploads/2019/06/medisis.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/06/medisis.png 833w, https://mantagroup.us/assets/wp-content/uploads/2019/06/medisis-300x198.png 300w, https://mantagroup.us/assets/wp-content/uploads/2019/06/medisis-768x508.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
+                                        <figure class="elementor-image-box-img"><a href="http://medisis.co.id/medisis/default/user/login?_next=/medisis/default/index"><img width="833" height="551" src="assets/upload/medisis.png" class="attachment-full size-full" alt="" srcset="assets/upload/medisis.png 833w, assets/upload/medisis.png 300w, assets/upload/medisis.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
                                         <div class="elementor-image-box-content">
                                           <h3 class="elementor-image-box-title"><a href="http://medisis.co.id/medisis/default/user/login?_next=/medisis/default/index">MEDISis</a></h3>
                                         </div>
@@ -768,7 +789,7 @@
                                   <div class="elementor-element elementor-element-250002b elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="250002b" data-element_type="widget" data-widget_type="image-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image-box-wrapper">
-                                        <figure class="elementor-image-box-img"><a href="https://halofarma.com/"><img width="833" height="551" src="assets/wp-content/uploads/2019/06/halofarma.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/06/halofarma.png 833w, https://mantagroup.us/assets/wp-content/uploads/2019/06/halofarma-300x198.png 300w, https://mantagroup.us/assets/wp-content/uploads/2019/06/halofarma-768x508.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
+                                        <figure class="elementor-image-box-img"><a href="https://halofarma.com/"><img width="833" height="551" src="assets/upload/halofarma.png" class="attachment-full size-full" alt="" srcset="assets/upload/halofarma.png 833w, assets/upload/halofarma.png 300w,  768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
                                         <div class="elementor-image-box-content">
                                           <h3 class="elementor-image-box-title"><a href="https://halofarma.com/">HALOFARMA</a></h3>
                                         </div>
@@ -784,7 +805,7 @@
                                   <div class="elementor-element elementor-element-41bba5c elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="41bba5c" data-element_type="widget" data-widget_type="image-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image-box-wrapper">
-                                        <figure class="elementor-image-box-img"><a href="https://halodokter.com/"><img width="833" height="551" src="assets/wp-content/uploads/2019/06/managed.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/06/managed.png 833w, https://mantagroup.us/assets/wp-content/uploads/2019/06/managed-300x198.png 300w, https://mantagroup.us/assets/wp-content/uploads/2019/06/managed-768x508.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
+                                        <figure class="elementor-image-box-img"><a href="https://halodokter.com/"><img width="833" height="551" src="assets/upload/managed.png" class="attachment-full size-full" alt="" srcset="assets/upload/managed.png 833w, assets/upload/managed.png 300w, assets/upload/managed.png 768w" sizes="(max-width: 833px) 100vw, 833px" /></a></figure>
                                         <div class="elementor-image-box-content">
                                           <h3 class="elementor-image-box-title"><a href="https://halodokter.com/">MANAGED CARE</a></h3>
                                         </div>
@@ -895,7 +916,7 @@
                                           <h3 class="elementor-icon-box-title">
                                             <span >KEAMANAN</span>
                                           </h3>
-                                          <p class="elementor-icon-box-description">Simpan dan kelola riwayat kesehata/rekam medis Anda secara aman sehingga dapat digunakan untuk membantu diagnosis dokter pada pemeriksaan di masa yang akan datang.</p>
+                                          <p class="elementor-icon-box-description">Simpan dan kelola riwayat kesehatan/rekam medis Anda secara aman sehingga dapat digunakan untuk membantu diagnosis dokter pada pemeriksaan di masa yang akan datang.</p>
                                         </div>
                                       </div>
                                     </div>
@@ -943,7 +964,7 @@
                                   <div class="elementor-element elementor-element-1b16c0d3 elementor-widget elementor-widget-image" data-id="1b16c0d3" data-element_type="widget" data-widget_type="image.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-image">
-                                        <img width="252" height="449" src="assets/wp-content/uploads/2019/06/test1.png" class="attachment-full size-full" alt="" srcset="https://mantagroup.us/assets/wp-content/uploads/2019/06/test1.png 252w, https://mantagroup.us/assets/wp-content/uploads/2019/06/test1-168x300.png 168w" sizes="(max-width: 252px) 100vw, 252px" />											
+                                        <img width="252" height="449" src="assets/upload/test1.png" class="attachment-full size-full" alt="" srcset="assets/upload/test1.png 252w, assets/upload/test1.png 168w" sizes="(max-width: 252px) 100vw, 252px" />											
                                       </div>
                                     </div>
                                   </div>
@@ -971,20 +992,48 @@
               <aside class="widget widget_text">
                 <h3 class="footer-widget-title"><span>Halodokter Indonesia</span></h3>
                 <div class="textwidget">
-                  <p>Kantor Pusat</p>
-                  <p>&nbsp;</p>
-                  <p>Jam Kerja</p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true" >&nbsp;&nbsp;&nbsp;</i>Mensa 2 Building
+                      Jl. HR Rasuna Said Kav B-34, 4th Floor, Kuningan, Jakarta 12940 - Indonesia</p>
+                  <p><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;+628748735473</p>
+                  <p><i class="fa fa-envelope-o" aria-hidden="true" >&nbsp;&nbsp;&nbsp;</i>Halodokter@gmail.com</p>
                 </div>
               </aside>
             </div>
-            <div id="footer-col2" class="widget-area">
+            <div id="footer-col5" class="widget-area">
               <aside class="widget widget_text">
-                <div class="textwidget"></div>
+                <h3 class="footer-widget-title"><span>Download</span></h3>
+                <div class="textwidget">
+                  <p>
+                    <a href="">
+                      <img alt="" class="footer_store" src="assets/upload/playstore.png">
+                    </a>
+                  </p>
+                <p>
+                  <a href="">
+                    <img alt="" class="footer_store" src="assets/upload/appstore.png">
+                  </a>
+                </p>
+                </div> 
               </aside>
             </div>
             <div id="footer-col3" class="widget-area">
               <aside class="widget widget_text">
+                  <h3 class="footer-widget-title"><span>Ikuti Kami</span></h3>
                 <div class="textwidget"></div>
+                <p>
+                    <a href="">
+                      <i class="fa-nk fa-instagram"></i>&nbsp;&nbsp;
+                    </a>
+                    <a href="">
+                      <i class="fa-nk fa-youtube"></i> &nbsp;&nbsp;
+                    </a>
+                    <a href="">
+                      <i class="fa-nk fa-twitter"></i>&nbsp;&nbsp;
+                    </a>
+                    <a href="">
+                      <i class="fa-nk fa-facebook"></i>
+                    </a>
+                  </p>
               </aside>
             </div>
           </div>
